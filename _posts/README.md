@@ -1,7 +1,7 @@
 # How to make new blog posts
 
 - Press the "Create new file" button above.
-- The filename should be formatted in the format "YYYY-MM-DD.md", where YYYY-MM-DD is a date.
+- The filename should be formatted in the format "YYYY-MM-DD-post-name.md", where YYYY-MM-DD is a date and "post-name" is whatever you like (but no spaces; only dashes!)
 - Then, put the following in the file contents, replacing the placeholder text: (you can copy & paste it if you like!)
 
 ```
