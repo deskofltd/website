@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+{{ site.description }}
